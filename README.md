@@ -1,2 +1,10 @@
 # PSP-Square
-A simple square rendered using sceGU for the psp
+A simple spinning square rendered using sceGU for the psp
+
+# Requirements
+[pspsdk](https://github.com/pspdev/pspsdk)
+
+# Build
+```
+make 
+```
